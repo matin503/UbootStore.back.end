@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Uboot.Store.Back.End.Domain\Uboot.Store.Back.End.Domain.csproj" />
+    <ProjectReference Include="..\Uboot.Store.Back.End.Infrastructure\Uboot.Store.Back.End.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Component\" />
+  </ItemGroup>
+
+</Project>
