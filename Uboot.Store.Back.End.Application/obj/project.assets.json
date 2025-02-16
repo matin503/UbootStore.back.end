@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Uboot.Store.Back.End.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Uboot.Store.Back.End.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Uboot.Store.Back.End.Core.dll": {}
+        }
+      },
+      "Uboot.Store.Back.End.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Uboot.Store.Back.End.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Uboot.Store.Back.End.Domain.dll": {}
+        }
+      },
+      "Uboot.Store.Back.End.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Uboot.Store.Back.End.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Uboot.Store.Back.End.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Uboot.Store.Back.End.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uboot.Store.Back.End.Core/1.0.0": {
+      "type": "project",
+      "path": "../Uboot.Store.Back.End.Core/Uboot.Store.Back.End.Core.csproj",
+      "msbuildProject": "../Uboot.Store.Back.End.Core/Uboot.Store.Back.End.Core.csproj"
+    },
+    "Uboot.Store.Back.End.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Uboot.Store.Back.End.Domain/Uboot.Store.Back.End.Domain.csproj",
+      "msbuildProject": "../Uboot.Store.Back.End.Domain/Uboot.Store.Back.End.Domain.csproj"
+    },
+    "Uboot.Store.Back.End.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Uboot.Store.Back.End.Infrastructure/Uboot.Store.Back.End.Infrastructure.csproj",
+      "msbuildProject": "../Uboot.Store.Back.End.Infrastructure/Uboot.Store.Back.End.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Uboot.Store.Back.End.Domain >= 1.0.0",
+      "Uboot.Store.Back.End.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\parsian\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\Uboot.Store.Back.End.Application.csproj",
+      "projectName": "Uboot.Store.Back.End.Application",
+      "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\Uboot.Store.Back.End.Application.csproj",
+      "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj": {
+              "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj"
+            },
+            "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

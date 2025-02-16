@@ -1,0 +1,12 @@
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\bin\Debug\net8.0\Uboot.Store.Back.End.Core.deps.json
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\bin\Debug\net8.0\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\bin\Debug\net8.0\Uboot.Store.Back.End.Core.pdb
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.AssemblyInfoInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.AssemblyInfo.cs
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.csproj.CoreCompileInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.sourcelink.json
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\refint\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\Uboot.Store.Back.End.Core.pdb
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Core\obj\Debug\net8.0\ref\Uboot.Store.Back.End.Core.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uboot.Store.Back.End.Core/1.0.0": {
+        "runtime": {
+          "Uboot.Store.Back.End.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uboot.Store.Back.End.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
