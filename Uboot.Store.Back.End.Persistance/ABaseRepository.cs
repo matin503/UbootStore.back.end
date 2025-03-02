@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace Uboot.Store.Back.End.Persistance
+namespace Uboot.Store.Back.End.Persistance;
+
+internal abstract class ABaseRepository
 {
-    internal class ABaseRepository
+    public readonly UbootStoreContext _context;
+
+    protected ABaseRepository(UbootStoreContext context)
     {
+        _context = context;
+        _context.ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
     }
 }
