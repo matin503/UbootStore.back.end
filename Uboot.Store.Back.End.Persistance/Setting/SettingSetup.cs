@@ -1,4 +1,6 @@
-﻿namespace Uboot.Store.Back.End.Persistance.Setting;
+﻿using Uboot.Store.Back.End.Infrastructure.Framework.Commons;
+
+namespace Uboot.Store.Back.End.Persistance.Setting;
 
 internal static class SettingSetup
 {

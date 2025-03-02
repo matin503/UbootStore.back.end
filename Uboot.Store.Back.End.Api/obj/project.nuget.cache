@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l45osFnjRsI=",
+  "dgSpecHash": "V5r6GTG+SEM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Api\\Uboot.Store.Back.End.Api.csproj",
+  "projectFilePath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Api\\Uboot.Store.Back.End.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parsian\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\efcore.bulkextensions\\9.0.1\\efcore.bulkextensions.9.0.1.nupkg.sha512",

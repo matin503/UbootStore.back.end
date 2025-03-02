@@ -1,4 +1,7 @@
-﻿namespace Uboot.Store.Back.End.Infrastructure.Framework.ApiResponses;
+﻿using Uboot.Store.Back.End.Infrastructure.Framework.AppHandlers;
+using Uboot.Store.Back.End.Infrastructure.Framework.Extensions;
+
+namespace Uboot.Store.Back.End.Infrastructure.Framework.ApiResponses;
 
 public static class ResponsePaginationExtentions
 {

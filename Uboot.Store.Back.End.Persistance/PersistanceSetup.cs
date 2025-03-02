@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using Microsoft.EntityFrameworkCore;
 using Uboot.Store.Back.End.Persistance.Setting;
 
 namespace Uboot.Store.Back.End.Persistance;

@@ -1,4 +1,6 @@
-﻿namespace Uboot.Store.Back.End.Infrastructure.Framework.AppHandlers;
+﻿using Uboot.Store.Back.End.Infrastructure.Framework.AppModels;
+
+namespace Uboot.Store.Back.End.Infrastructure.Framework.AppHandlers;
 
 public class PaginationParam
 {
@@ -30,7 +32,7 @@ public class PaginationParam
         }
     }
 
-    public PaginationModel Pagination
+    public AppModels.PaginationModel Pagination
     {
         get
         {

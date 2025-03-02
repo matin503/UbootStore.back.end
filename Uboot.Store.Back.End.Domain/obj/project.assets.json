@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
       "projectName": "Uboot.Store.Back.End.Domain",
-      "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
+      "projectPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
       "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\obj\\",
+      "outputPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1293,11 +1293,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
-              "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
+            "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
+              "projectPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
             },
-            "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj": {
-              "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj"
+            "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj": {
+              "projectPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj"
             }
           }
         }
@@ -1335,13 +1335,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }
