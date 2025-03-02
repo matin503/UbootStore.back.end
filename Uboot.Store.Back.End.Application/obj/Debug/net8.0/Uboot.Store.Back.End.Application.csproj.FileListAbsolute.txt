@@ -1,0 +1,6 @@
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.csproj.AssemblyReference.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.AssemblyInfoInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.AssemblyInfo.cs
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.csproj.CoreCompileInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Application\obj\Debug\net8.0\Uboot.Store.Back.End.Application.sourcelink.json

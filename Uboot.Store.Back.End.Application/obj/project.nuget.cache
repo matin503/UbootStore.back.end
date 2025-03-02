@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "c+SHcH9dCuo=",
+  "dgSpecHash": "BHeTujereHc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\Uboot.Store.Back.End.Application.csproj",
+  "projectFilePath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\Uboot.Store.Back.End.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parsian\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\parsian\\.nuget\\packages\\efcore.bulkextensions\\9.0.1\\efcore.bulkextensions.9.0.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",

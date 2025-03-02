@@ -1,0 +1,16 @@
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.AssemblyInfo.cs
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.sourcelink.json
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.deps.json
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.pdb
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\bin\Debug\net8.0\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\bin\Debug\net8.0\Uboot.Store.Back.End.Core.pdb
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.St.B0D1A6AD.Up2Date
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\refint\Uboot.Store.Back.End.Infrastructure.dll
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.pdb
+C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Infrastructure\obj\Debug\net8.0\ref\Uboot.Store.Back.End.Infrastructure.dll
