@@ -1,30 +1,20 @@
-﻿using Microsoft.Data.SqlClient;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
-using Online.Menu.presistance.Setting;
+﻿using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
+using Uboot.Store.Back.End.Domain;
+using Uboot.Store.Back.End.Infrastructure.Framework.Mediators;
 
 namespace Uboot.Store.Back.End.Application;
 
-public class ApplicationSetup
+public static class ApplicationSetup
 {
-    public static void AddPersistance(this IServiceCollection services)
+    public static void AddApplicationServices(this IServiceCollection services, Assembly assembly)
     {
-        SettingSetup.AddSettings();
+        var applicationAssembly = AppDomain.CurrentDomain.Load("Online.Menu.Application");
+        services.AddMediatorServices(applicationAssembly);
 
-        services.AddDbContext<OnlineMenuContext>(options => options.UseSqlServer(AppSettings.ConnectionString));
+        services.AddAutoMapper(assembly, applicationAssembly);
 
-        services.AddScoped<OnlineMenuContext>();
-        services.AddScoped((s) => new SqlConnection(AppSettings.ConnectionString));
-
-        typeof(ABaseRepository)
-            .Assembly
-            .DefinedTypes
-            .Where(repo => !repo.IsAbstract && repo.IsSubclassOf(typeof(ABaseRepository)))
-            .ToList()
-            .ForEach(repo =>
-            {
-                var irepo = repo.GetInterface($"I{repo.Name}");
-                services.AddScoped(irepo, repo);
-            });
+        services.AddDomainServices();
     }
 }
+

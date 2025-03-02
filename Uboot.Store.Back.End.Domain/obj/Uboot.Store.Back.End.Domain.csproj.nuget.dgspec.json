@@ -4,14 +4,14 @@
     "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj": {
+    "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
-        "projectName": "Uboot.Store.Back.End.Domain",
-        "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj",
+        "projectName": "Uboot.Store.Back.End.Core",
+        "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj",
         "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\obj\\",
+        "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,251 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
+        "projectName": "Uboot.Store.Back.End.Domain",
+        "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\Uboot.Store.Back.End.Domain.csproj",
+        "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
+                "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
+              },
+              "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj": {
+                "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
+        "projectName": "Uboot.Store.Back.End.Infrastructure",
+        "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
+                "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.ReDoc": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj",
+        "projectName": "Uboot.Store.Back.End.Persistance",
+        "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj",
+        "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\parsian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
+                "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
+              },
+              "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EFCore.BulkExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uboot.Store.Back.End.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5c127901427c0fbba4dbf381cecacc740e8bf64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba4238392e8cffe3df62dd0c213308685471a40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uboot.Store.Back.End.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uboot.Store.Back.End.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

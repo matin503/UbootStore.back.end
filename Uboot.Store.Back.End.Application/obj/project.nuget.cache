@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "c+SHcH9dCuo=",
+  "dgSpecHash": "BFl9cVpYOXI=",
   "success": true,
   "projectFilePath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Application\\Uboot.Store.Back.End.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parsian\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\parsian\\.nuget\\packages\\efcore.bulkextensions\\9.0.1\\efcore.bulkextensions.9.0.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",
@@ -28,5 +29,12 @@
     "C:\\Users\\parsian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.1\\swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.2\\system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
