@@ -1,12 +1,30 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.
+using Microsoft.EntityFrameworkCore;
+using Uboot.Store.Back.End.Persistance.Setting;
 
-namespace Uboot.Store.Back.End.Persistance
+namespace Uboot.Store.Back.End.Persistance;
+
+public static class PersistanceSetup
 {
-    internal class PersistanceSetup
+    public static void AddPersistance(this IServiceCollection services)
     {
+        SettingSetup.AddSettings();
+
+        services.AddDbContext<UbootStoreContext>(options => options.UseSqlServer(AppSettings.ConnectionString));
+
+        services.AddScoped<UbootStoreContext>();
+        services.AddScoped((s) => new SqlConnection(AppSettings.ConnectionString));
+
+        typeof(ABaseRepository)
+            .Assembly
+            .DefinedTypes
+            .Where(repo => !repo.IsAbstract && repo.IsSubclassOf(typeof(ABaseRepository)))
+            .ToList()
+            .ForEach(repo =>
+            {
+                var irepo = repo.GetInterface($"I{repo.Name}");
+                services.AddScoped(irepo, repo);
+            });
     }
 }

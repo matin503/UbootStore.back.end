@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace Uboot.Store.Back.End.Persistance
+namespace Uboot.Store.Back.End.Persistance;
+
+internal partial class UbootStoreContext(DbContextOptions<UbootStoreContext> options) : DbContext(options)
 {
-    internal class UbootStoreContext
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
+        optionsBuilder.EnableSensitiveDataLogging();
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+       
     }
 }

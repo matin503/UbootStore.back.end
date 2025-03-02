@@ -1,0 +1,4 @@
+{
+  "ConnectionStrings": "Server=.;Database=Online_Menu_Db;Trusted_Connection=True;TrustServerCertificate=True"
+
+}
