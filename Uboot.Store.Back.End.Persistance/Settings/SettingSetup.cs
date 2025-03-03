@@ -6,6 +6,6 @@ internal static class SettingSetup
 {
     public static void AddSettings()
     {
-        AppSettings.ConnectionString = SettingCommon.GetSetting<string>("ConnectionStrings");
+        AppSettings.ConnectionString = SettingCommon.GetSetting<string>("ConnectionString");
     }
 }

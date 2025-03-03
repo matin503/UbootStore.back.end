@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using Uboot.Store.Back.End.Persistance.Setting;
 
 namespace Uboot.Store.Back.End.Persistance;

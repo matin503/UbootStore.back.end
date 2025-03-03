@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="LogicServices\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Uboot.Store.Back.End.Core\Uboot.Store.Back.End.Core.csproj" />
     <ProjectReference Include="..\Uboot.Store.Back.End.Persistance\Uboot.Store.Back.End.Persistance.csproj" />
   </ItemGroup>

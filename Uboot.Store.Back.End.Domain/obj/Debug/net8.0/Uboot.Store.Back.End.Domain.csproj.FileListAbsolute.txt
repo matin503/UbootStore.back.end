@@ -4,3 +4,17 @@ C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\ob
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.Store.Back.End.Domain.AssemblyInfo.cs
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.Store.Back.End.Domain.csproj.CoreCompileInputs.cache
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.Store.Back.End.Domain.sourcelink.json
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Domain.deps.json
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Domain.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Domain.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Persistance.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Core.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Persistance.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.St.35C67025.Up2Date
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.Store.Back.End.Domain.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\refint\Uboot.Store.Back.End.Domain.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\Uboot.Store.Back.End.Domain.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Domain\obj\Debug\net8.0\ref\Uboot.Store.Back.End.Domain.dll

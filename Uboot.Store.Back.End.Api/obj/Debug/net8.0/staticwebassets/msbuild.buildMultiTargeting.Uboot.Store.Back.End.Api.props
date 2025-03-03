@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Uboot.Store.Back.End.Api.props" />
+</Project>
