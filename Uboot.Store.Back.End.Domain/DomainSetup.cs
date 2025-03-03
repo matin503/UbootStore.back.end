@@ -6,10 +6,10 @@ public static class DomainSetup
 {
     public static void AddDomainServices(this IServiceCollection services)
     {
-        typeof(AbaseLogic)
+        typeof(ABaseLogic)
             .Assembly
             .DefinedTypes
-            .Where(dmn => !dmn.IsAbstract && dmn.IsSubclassOf(typeof(AbaseLogic)))
+            .Where(dmn => !dmn.IsAbstract && dmn.IsSubclassOf(typeof(ABaseLogic)))
             .ToList()
             .ForEach(dmn =>
             {

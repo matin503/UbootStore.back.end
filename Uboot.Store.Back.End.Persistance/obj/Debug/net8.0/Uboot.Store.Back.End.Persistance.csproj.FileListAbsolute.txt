@@ -4,3 +4,15 @@ C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Persistan
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.Store.Back.End.Persistance.AssemblyInfo.cs
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.Store.Back.End.Persistance.csproj.CoreCompileInputs.cache
 C:\Users\parsian\Source\Repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.Store.Back.End.Persistance.sourcelink.json
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Persistance.deps.json
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Persistance.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Persistance.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Core.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Core.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\bin\Debug\net8.0\Uboot.Store.Back.End.Infrastructure.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.St.14A08123.Up2Date
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.Store.Back.End.Persistance.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\refint\Uboot.Store.Back.End.Persistance.dll
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\Uboot.Store.Back.End.Persistance.pdb
+C:\Users\parsian\source\repos\UbootStore.back.end\Uboot.Store.Back.End.Persistance\obj\Debug\net8.0\ref\Uboot.Store.Back.End.Persistance.dll

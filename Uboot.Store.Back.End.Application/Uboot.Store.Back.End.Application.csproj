@@ -11,8 +11,4 @@
     <ProjectReference Include="..\Uboot.Store.Back.End.Infrastructure\Uboot.Store.Back.End.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Component\" />
-  </ItemGroup>
-
 </Project>

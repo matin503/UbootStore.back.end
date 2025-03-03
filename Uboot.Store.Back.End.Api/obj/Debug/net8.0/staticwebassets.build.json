@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mf1oZnZakPu5Mu2xaluvb+L+u8iEnC+XMf+0bPLZCAA=",
+  "Source": "Uboot.Store.Back.End.Api",
+  "BasePath": "_content/Uboot.Store.Back.End.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

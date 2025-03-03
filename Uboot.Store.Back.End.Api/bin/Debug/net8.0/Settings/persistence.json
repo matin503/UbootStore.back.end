@@ -1,0 +1,4 @@
+{
+  "ConnectionString": "Server=.;Database=Uboot_store_Db;Integrated Security=True;TrustServerCertificate=True"
+
+}
