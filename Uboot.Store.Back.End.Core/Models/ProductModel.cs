@@ -10,7 +10,10 @@ namespace Uboot.Store.Back.End.Core.Models
     {
         public string Title { get; set; }
         public int Price { get; set; }
-        public int SubCategoryId { get; set; }
 
+        //FK
+        public int SubCategoryId { get; set; }
+        //Nav Key
+        public virtual SubCategory SubCategory { get; set; }
     }
 }
