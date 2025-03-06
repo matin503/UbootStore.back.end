@@ -1216,9 +1216,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
       "projectName": "Uboot.Store.Back.End.Infrastructure",
-      "projectPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\Uboot.Store.Back.End.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\parsian\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -1238,8 +1238,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
-              "projectPath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
+            "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj": {
+              "projectPath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Core\\Uboot.Store.Back.End.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZDogUBr1fN8=",
+  "dgSpecHash": "JJNT/ipimJI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\parsian\\source\\repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj",
+  "projectFilePath": "C:\\Users\\parsian\\Source\\Repos\\UbootStore.back.end\\Uboot.Store.Back.End.Persistance\\Uboot.Store.Back.End.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\parsian\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\parsian\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
