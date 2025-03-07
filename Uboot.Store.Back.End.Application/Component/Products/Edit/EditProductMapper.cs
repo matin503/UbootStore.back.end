@@ -7,6 +7,6 @@ public class EditProductMapper: Profile
 {
     public EditProductMapper()
     {
-        CreateMap<EditProductParam, ProductModel>();
+        CreateMap<EditProductParam, SubCategory>();
     }
 }

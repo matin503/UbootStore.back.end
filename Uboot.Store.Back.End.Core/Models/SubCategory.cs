@@ -1,9 +1,9 @@
 ﻿namespace Uboot.Store.Back.End.Core.Models;
 
-public class SubCategory : AbaseModel
+public class SubCategoryModel : AbaseModel
 {
     public string Title { get; set; }
 
     //nav key
-    public virtual ICollection<ProductModel> Product { get; set; }
+    public virtual ICollection<SubCategory> Product { get; set; }
 }

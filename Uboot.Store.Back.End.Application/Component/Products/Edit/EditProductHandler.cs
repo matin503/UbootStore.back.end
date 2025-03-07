@@ -9,7 +9,7 @@ internal class EditProductHandler(IProductLogic _productLogic, IMapper _mapper) 
 {
     public async Task<IResponse> Handle(EditProductParam param, CancellationToken cancellationToken)
     {
-        var model = _mapper.Map<ProductModel>(param);
+        var model = _mapper.Map<SubCategory>(param);
 
         await _productLogic.UpdateAsync(model);
 

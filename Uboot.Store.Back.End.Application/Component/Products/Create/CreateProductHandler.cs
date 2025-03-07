@@ -9,7 +9,7 @@ internal class CreateProductHandler(IProductLogic _productLogic, IMapper _mapper
 {
     public async Task<IResponse> Handle(CreateProductParam param, CancellationToken cancellationToken)
     {
-        var model = _mapper.Map<ProductModel>(param);
+        var model = _mapper.Map<SubCategory>(param);
 
         await _productLogic.InsertAsync(model);
 

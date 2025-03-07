@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Uboot.Store.Back.End.Core.Models
 {
-    public class ProductModel : AbaseModel
+    public class SubCategory : AbaseModel
     {
         public string Title { get; set; }
         public int Price { get; set; }
