@@ -5,8 +5,8 @@ namespace Uboot.Store.Back.End.Domain.LogicServices;
 public interface IProductLogic
 {
     Task DeleteAsync(int id);
-    Task<ProductModel> GetByIdAsync(int id);
-    Task<ICollection<ProductModel>> GetAllAsync();
-    Task InsertAsync(ProductModel model);
-    Task UpdateAsync(ProductModel model);
+    Task<SubCategory> GetByIdAsync(int id);
+    Task<ICollection<SubCategory>> GetAllAsync();
+    Task InsertAsync(SubCategory model);
+    Task UpdateAsync(SubCategory model);
 }

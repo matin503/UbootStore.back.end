@@ -7,6 +7,6 @@ public class GetByIdProductMapper:Profile
 {
     public GetByIdProductMapper()
     {
-        CreateMap<ProductModel, GetByIdProductResponse>();
+        CreateMap<SubCategory, GetByIdProductResponse>();
     }
 }

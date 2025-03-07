@@ -7,6 +7,6 @@ public class CreateProductMapper:Profile
 {
     public CreateProductMapper()
     {
-        CreateMap<CreateProductParam, ProductModel>();
+        CreateMap<CreateProductParam, SubCategory>();
     }
 }

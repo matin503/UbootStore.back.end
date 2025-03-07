@@ -5,7 +5,7 @@ namespace Uboot.Store.Back.End.Persistance;
 
 internal partial class UbootStoreContext(DbContextOptions<UbootStoreContext> options) : DbContext(options)
 {
-    public virtual DbSet<ProductModel> Products { get; set; }
+    public virtual DbSet<SubCategory> Products { get; set; }
     public virtual DbSet<SubCategory> SubCategories { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -15,7 +15,7 @@ internal partial class UbootStoreContext(DbContextOptions<UbootStoreContext> opt
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<ProductModel>(entity =>
+        modelBuilder.Entity<SubCategory>(entity =>
         {
             entity.ToTable("Product")
             .HasOne(q => q.SubCategory)

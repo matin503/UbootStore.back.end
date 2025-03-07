@@ -10,22 +10,22 @@ internal class ProductLogic(IProductRepository _ProductRepository) : ABaseLogic,
         await _ProductRepository.DeleteAsync(id);
     }
 
-    public async Task<ProductModel> GetByIdAsync(int id)
+    public async Task<SubCategory> GetByIdAsync(int id)
     {
         return await _ProductRepository.GetByIdAsync(id);
     }
 
-    public async Task<ICollection<ProductModel>> GetAllAsync()
+    public async Task<ICollection<SubCategory>> GetAllAsync()
     {
         return await _ProductRepository.GetAllAsync();
     }
 
-    public async Task InsertAsync(ProductModel item)
+    public async Task InsertAsync(SubCategory item)
     {
         await _ProductRepository.InsertAsync(item);
     }
 
-    public async Task UpdateAsync(ProductModel item)
+    public async Task UpdateAsync(SubCategory item)
     {
         await _ProductRepository.UpdateAsync(item);
     }
